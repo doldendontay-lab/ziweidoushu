@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ziweidoushu-livid.vercel.app/sitemap.xml
